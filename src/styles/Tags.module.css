@@ -1,0 +1,16 @@
+.tag {
+  color: var(--text-color);
+}
+.tagname {
+  color: var(--tagname-text-color);
+  margin-right: 0.25rem;
+}
+.tagname_close {
+  color: var(--tagname-text-color);
+}
+.attr {
+  color: var(--attributename-text-color);
+}
+.attr_value {
+  color: var(--attributevalue-text-color);
+}
