@@ -9,21 +9,6 @@ import style from "./../styles/About.module.css";
 const About = () => {
   return (
     <>
-      <div className={style.circle}>
-        <img
-          className={style.memoji}
-          src={`${process.env.PUBLIC_URL}/images/memogi.png`}
-          alt="memoji"
-        />
-        <div className={style.circle_text_box}>
-          <CircleSvg
-            className={style.circle_svg}
-            width={"155%"}
-            height={"155%"}
-          />
-        </div>
-      </div>
-
       <CodeBlock>
         <CodeLine>
           <TagOpen tagname={"html"} attr={"lang"} attrValue={'"ko"'} />

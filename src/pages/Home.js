@@ -13,7 +13,7 @@ const Home = () => {
         <div className={style.typewriter}>
           <h1>Hello 'Wonseok' World!</h1>
         </div>
-        <p className={style.heading}>I'm Frontend Developer</p>
+        <p className={style.heading}>I'm Backend Developer</p>
         <div className={style.buttons}>
           <button
             onClick={() => {

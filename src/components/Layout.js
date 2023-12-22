@@ -4,7 +4,7 @@ import { Routes, Route, useLocation } from 'react-router-dom';
 import style from './../styles/Layout.module.css';
 
 /* components import */
-import Windowbar from './Windowbar';
+import Windowbar from './WindowBar';
 import Sidebar from './Sidebar';
 import Explorer from './Explorer';
 import Tabsbar from './Tabsbar';
