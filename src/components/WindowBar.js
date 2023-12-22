@@ -21,9 +21,9 @@ const WindowBar = () => {
       </div>
       <p className={style.window_title}>Wonseok Cho - Visual Studio Code</p>
       <div className={style.window_ic_wrap}>
-        <span className={`${style.window_ic} ${style.window_ic__red}`}></span>
-        <span className={`${style.window_ic} ${style.window_ic__yellow}`}></span>
         <span className={`${style.window_ic} ${style.window_ic__green}`}></span>
+        <span className={`${style.window_ic} ${style.window_ic__yellow}`}></span>
+        <span className={`${style.window_ic} ${style.window_ic__red}`}></span>
       </div>
     </div>
   )
