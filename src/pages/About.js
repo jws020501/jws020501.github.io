@@ -25,7 +25,7 @@ const About = () => {
         <CodeLine>
           <TagContents indent={4}>
             {" "}
-            안녕하세요, 프론트엔드 개발자 조원석입니다! 👩‍💻
+            안녕하세요, 풀스택개발자를 꿈꾸는 조원석입니다! 💻
           </TagContents>
         </CodeLine>
 
@@ -72,9 +72,7 @@ const About = () => {
             <br />
             군생활 중 여러 포트폴리오를 만들어 나가는것이 제 목표입니다
             <br />
-			  군복무 후 취업을 위한 발판을 많이 만들어 나가겠습니다
-            <br />
-			  화이팅!~
+			군전역 후 취업을 위한 발판을 많이 만들어 나가겠습니다
           </TagContents>
         </CodeLine>
 
